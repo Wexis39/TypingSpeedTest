@@ -1,0 +1,17 @@
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\bin\Debug\net8.0-windows\KeyboardTypingTest.exe
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\bin\Debug\net8.0-windows\KeyboardTypingTest.deps.json
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\bin\Debug\net8.0-windows\KeyboardTypingTest.runtimeconfig.json
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\bin\Debug\net8.0-windows\KeyboardTypingTest.dll
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\bin\Debug\net8.0-windows\KeyboardTypingTest.pdb
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.Form1.resources
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.csproj.GenerateResource.cache
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.AssemblyInfoInputs.cache
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.AssemblyInfo.cs
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.dll
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\refint\KeyboardTypingTest.dll
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.pdb
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.genruntimeconfig.cache
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\ref\KeyboardTypingTest.dll
+C:\Users\Metehan\source\repos\KeyboardTypingTest\KeyboardTypingTest\obj\Debug\net8.0-windows\KeyboardTypingTest.Properties.Resources.resources
